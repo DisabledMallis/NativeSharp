@@ -1,0 +1,14 @@
+*.vcxproj
+*.filters
+build/
+CMakeFiles/
+Debug/
+CMakeCache.txt
+*.cmake
+*.sln
+*.csproj
+*.dll
+*.pdb
+*.cache
+obj/
+Win32/
